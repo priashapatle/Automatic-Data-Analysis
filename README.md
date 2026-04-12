@@ -101,7 +101,7 @@ streamlit run dashboard.py
 
 ## 🌐 Live Demo
 
-👉 (Add your Streamlit link here after deployment)
+https://huggingface.co/spaces/priashapatle/Automatic-Data-Analysis
 
 ---
 
