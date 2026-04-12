@@ -1,5 +1,11 @@
 # Automatic Data Analysis
 
+---
+
+live demo: https://huggingface.co/spaces/priashapatle/Automatic-Data-Analysis
+
+---
+
 An intelligent, interactive data analysis dashboard built using **Streamlit** that allows users to upload datasets, generate insights, visualize data, and interact with it using natural language.
 
 ---
